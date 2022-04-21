@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <Version>0.0.0.4</Version>
     <Authors>Nirjhar Choudhury</Authors>
     <Company>.Net Core Central</Company>
